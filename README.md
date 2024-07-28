@@ -15,7 +15,7 @@ The queue is sorted based on which policy is selected (sjf) (fcfs) (priority)
 The workload conditions are:
 policy, job count, arrival rate, min cpu time, max cpu time
 
-## Performance of the different Scheldualling methods
+## Performance of the different Scheduling algorithms
 
 Priority 
 
