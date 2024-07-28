@@ -14,3 +14,17 @@ The queue is sorted based on which policy is selected (sjf) (fcfs) (priority)
 4.	Throughput 
 The workload conditions are:
 policy, job count, arrival rate, min cpu time, max cpu time
+
+## Performance of the different Scheldualling methods
+
+Priority 
+
+![image](https://github.com/user-attachments/assets/a7eedbd5-adbd-4a92-9627-32a7738c1473)
+
+FCFS
+
+![image](https://github.com/user-attachments/assets/1025b825-e918-4da7-830d-16d2374c28b2)
+
+SJF 
+
+![Uploading image.png…]()
