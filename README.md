@@ -7,3 +7,10 @@ The dispatching module handles running the processes and removing the job from t
 
 The queue is sorted based on which policy is selected (sjf) (fcfs) (priority)
 
+## Performance metrics used to evaluate the application
+1.	Total jobs 
+2.	Average turn around
+3.	Average wait time
+4.	Throughput 
+The workload conditions are:
+policy, job count, arrival rate, min cpu time, max cpu time
